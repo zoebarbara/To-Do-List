@@ -1,4 +1,4 @@
-<img src="https://github.com/zoebarbara/zoebarbara/blob/main/PONG.gif" width="85%" height='auto'/>
+<img src="https://github.com/zoebarbara/todolist/blob/main/screenshot.png" width="85%" height='auto'/>
 
 # Getting Started TO DO LIST with Create React App
 
