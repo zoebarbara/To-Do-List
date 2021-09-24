@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+<img src="https://github.com/zoebarbara/zoebarbara/blob/main/PONG.gif" width="85%" height='auto'/>
+
+# Getting Started TO DO LIST with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
